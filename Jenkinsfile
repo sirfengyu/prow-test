@@ -1,3 +1,5 @@
 @Library('apulis-build@main') _
 
-buildPlugin name: 'git'
+buildPlugin{
+  name: 'git'
+}
