@@ -1,5 +1,5 @@
 @Library('apulis-build@main') _
 
-buildPlugin{
+testBuild{
   name: 'git'
 }
